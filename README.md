@@ -35,6 +35,8 @@ ST-Link to talk to my BlackPill via SWD (Serial Wire Debug). One
 could just as easily use a regular UART to USB Serial Adapter, 
 and it would work just as fine. 
 
+---
+
 ## Hardware
 
  + STM32F411CEU6 - BlackPill V2 (WeAct Studio)
