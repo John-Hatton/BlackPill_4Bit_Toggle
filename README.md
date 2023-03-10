@@ -40,8 +40,9 @@ and it would work just as fine.
 ## Hardware
 
  + STM32F411CEU6 - BlackPill V2 (WeAct Studio)
- + Eight-Bit Output Device (8 LEDs)
  + Five-Bit Input Device (5 Buttons)
+ + Eight-Bit Output Device (8 LEDs)
+ 
 
 ---
 
